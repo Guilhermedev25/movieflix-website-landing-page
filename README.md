@@ -1,7 +1,7 @@
 # 🎬 MovieFlix Landing Page
 
 A beautiful and dynamic landing page for a movie streaming service, featuring an interactive carousel and video functionality.
-
+ https://guilhermedev25.github.io/movieflix-website-landing-page/
 ## ✨ Features
 
 - **Dynamic Movie Carousel**: Smooth transitions between featured movies
